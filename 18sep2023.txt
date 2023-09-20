@@ -1,17 +1,17 @@
 18th September, 2023
-Commands
+-> Commands
 
 1. To clone the repository
 	(git clone https://github.com/Iarnavm/Team09)
 
-2. To check folder of repo is added or not
+2. To check folder of the repo is added or not
 	(dir)
 
 3. To add the file 
 	(cd Team09)
 	(git add anchal.md)
 
-4.To make the first commit
+4. To make the first commit
 		[have to specify it first]
 		 (git config --global user.email "you@example.com")
   		 (git config --global user.name "Your Name")
@@ -24,25 +24,23 @@ Commands
 6. To check the modified files
 	(git log)
 
-7. To make commit in other's file
+7. To make commit in another's file
 	git commit -m "second commit".
 	git push
 	git pull
 
 
-
+-> Projects
 Day planner
 E-learning platform
-Library management System
-Campus Recruitment Managemnet System
+Library Management System
+Campus Recruitment Management System
 Simple 2D CAD program
 
 
 
-task
+-> Task
 learn more about git commands
 Install a git ui application
-Identify a problem statement and write Specification Documnet 
+Identify a problem statement and write a Specification document 
 Identify a name for the team 
-
-
