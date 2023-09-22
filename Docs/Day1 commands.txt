@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 18th September, 2023
 -> Commands
 
@@ -44,3 +45,51 @@ learn more about git commands
 Install a git ui application
 Identify a problem statement and write a Specification document 
 Identify a name for the team 
+=======
+18th September, 2023
+-> Commands
+
+1. To clone the repository
+	(git clone https://github.com/Iarnavm/Team09)
+
+2. To check folder of the repo is added or not
+	(dir)
+
+3. To add the file 
+	(cd Team09)
+	(git add anchal.md)
+
+4. To make the first commit
+		[have to specify it first]
+		 (git config --global user.email "you@example.com")
+  		 (git config --global user.name "Your Name")
+	(git commit -m "first git commit".)
+
+5. To do a git push
+	(git push) if not working then
+	(git pull) after that (git push)
+
+6. To check the modified files
+	(git log)
+
+7. To make commit in another's file
+	git commit -m "second commit".
+	git push
+	git pull
+
+
+-> Projects
+Day planner
+E-learning platform
+Library Management System
+Campus Recruitment Management System
+Simple 2D CAD program
+
+
+
+-> Task
+learn more about git commands
+Install a git ui application
+Identify a problem statement and write a Specification document 
+Identify a name for the team 
+>>>>>>> 1ec4bdbd9f738e673b9ac668f917d647bf22eb02
