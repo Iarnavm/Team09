@@ -1,0 +1,10 @@
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData.dark(), // default dark theme replaces default light theme
+      home: MyHomePage(title: 'Flutter Demo Home Page'),
+    );
+  }
+}
