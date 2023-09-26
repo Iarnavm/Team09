@@ -16,9 +16,7 @@ import ru.aleshin.timeplanner.presentation.ui.main.MainActivity
 import ru.aleshin.timeplanner.presentation.ui.tabs.screenmodel.TabScreenModel
 import javax.inject.Singleton
 
-/**
- * @author Stanislav Aleshin on 14.02.2023.
- */
+
 @Singleton
 @Component(
     modules = [
