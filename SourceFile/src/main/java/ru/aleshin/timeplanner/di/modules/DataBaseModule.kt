@@ -21,9 +21,7 @@ import ru.aleshin.features.settings.api.data.datasources.theme.ThemeSettingsDao
 import ru.aleshin.features.settings.api.data.datasources.theme.ThemeSettingsLocalDataSource
 import javax.inject.Singleton
 
-/**
- * @author Stanislav Aleshin on 14.02.2023.
- */
+
 @Module
 class DataBaseModule {
 
