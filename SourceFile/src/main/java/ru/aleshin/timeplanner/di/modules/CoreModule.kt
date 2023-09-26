@@ -17,9 +17,7 @@ import ru.aleshin.timeplanner.navigation.TabNavigationManager
 import ru.aleshin.timeplanner.presentation.receiver.AlarmReceiverProviderImpl
 import javax.inject.Singleton
 
-/**
- * @author Stanislav Aleshin on 29.03.2023.
- */
+
 @Module
 interface CoreModule {
 
