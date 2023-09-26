@@ -20,9 +20,7 @@ import ru.aleshin.features.settings.api.domain.repositories.TasksSettingsReposit
 import ru.aleshin.features.settings.api.domain.repositories.ThemeSettingsRepository
 import javax.inject.Singleton
 
-/**
- * @author Stanislav Aleshin on 07.03.2023.
- */
+
 @Module
 interface DataModule {
 
