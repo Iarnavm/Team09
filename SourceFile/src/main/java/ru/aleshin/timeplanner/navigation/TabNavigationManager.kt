@@ -10,9 +10,7 @@ import ru.aleshin.features.settings.api.navigation.SettingsFeatureStarter
 import javax.inject.Inject
 import javax.inject.Provider
 
-/**
- * @author Stanislav Aleshin on 18.02.2023.
- */
+
 interface TabNavigationManager {
 
     fun showHomeFeature(screen: HomeScreens?, isRoot: Boolean = false)
