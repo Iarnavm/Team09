@@ -8,10 +8,7 @@ import androidx.compose.ui.unit.dp
 import ru.aleshin.core.ui.theme.TimePlannerRes
 import ru.aleshin.core.ui.views.BottomBarItem
 import ru.aleshin.core.ui.views.BottomNavigationBar
-
-/**
- * @author Stanislav Aleshin on 06.05.2023.
- */
+ 
 @Composable
 fun TabsBottomNavigationBar(
     modifier: Modifier = Modifier,
