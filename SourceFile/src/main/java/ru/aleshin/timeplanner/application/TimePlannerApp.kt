@@ -16,9 +16,7 @@ import ru.aleshin.core.utils.notifications.parameters.NotificationDefaults
 import ru.aleshin.core.utils.notifications.parameters.NotificationPriority
 import ru.aleshin.timeplanner.di.component.AppComponent
 
-/**
- * @author Stanislav Aleshin on 14.02.2023.
- */
+
 class TimePlannerApp : Application() {
 
     val appComponent by lazy {
