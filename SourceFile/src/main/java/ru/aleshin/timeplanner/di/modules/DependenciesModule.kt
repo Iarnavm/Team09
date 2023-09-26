@@ -9,9 +9,7 @@ import ru.aleshin.features.home.impl.di.HomeFeatureDependencies
 import ru.aleshin.features.settings.impl.di.SettingsFeatureDependencies
 import ru.aleshin.timeplanner.di.component.AppComponent
 
-/**
- * @author Stanislav Aleshin on 14.02.2023.
- */
+
 @Module
 interface DependenciesModule {
 
