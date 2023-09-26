@@ -9,9 +9,7 @@ import ru.aleshin.features.home.api.domain.entities.template.RepeatTime
 import java.util.Date
 import javax.inject.Inject
 
-/**
- * @author Stanislav Aleshin on 29.03.2023.
- */
+
 class AlarmReceiverProviderImpl @Inject constructor(
     private val context: Context,
 ) : AlarmReceiverProvider {
