@@ -23,9 +23,7 @@ import ru.aleshin.features.home.api.domain.entities.template.RepeatTimeType
 import ru.aleshin.timeplanner.R
 import ru.aleshin.timeplanner.presentation.ui.main.MainActivity
 
-/**
- * @author Stanislav Aleshin on 29.03.2023.
- */
+
 class TimeTaskAlarmReceiver : BroadcastReceiver() {
     
     override fun onReceive(context: Context?, intent: Intent?) {
